@@ -1,0 +1,6 @@
+{
+  "name": "pstack",
+  "version": "0.17.0",
+  "description": "Lauren Tan’s complete pstack plugin with Codex host adaptations.",
+  "skills": "./skills/"
+}
